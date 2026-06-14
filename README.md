@@ -25,13 +25,21 @@ Currently @ **Juniper Square** — Kafka, Airflow, Redshift, AWS.
 > I use two accounts — personal **(ansh2608)** and corporate **(anshp2608)**.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ansh2608&theme=react&hide_border=true&hide_current_streak=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=anshp2608&theme=react&hide_border=true&hide_current_streak=true" width="48%"/>
+  <a href="https://github.com/ansh2608">
+    <img src="https://streak-stats.demolab.com/?user=ansh2608&theme=react&hide_border=true&hide_current_streak=true" width="48%"/>
+  </a>
+  <a href="https://github.com/anshp2608">
+    <img src="https://streak-stats.demolab.com/?user=anshp2608&theme=react&hide_border=true&hide_current_streak=true" width="48%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansh2608&theme=github_dark" width="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshp2608&theme=github_dark" width="100%"/>
+  <a href="https://github.com/ansh2608">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansh2608&theme=github_dark" width="100%"/>
+  </a>
+  <a href="https://github.com/anshp2608">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshp2608&theme=github_dark" width="100%"/>
+  </a>
 </p>
 
 ---
